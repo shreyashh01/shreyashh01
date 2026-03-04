@@ -1,4 +1,4 @@
-<h3 align="left">💫 About Me:<br>Highly motivated human trying to become a slightly better version of yesterday’s bug-fixing machine.<br>By profession: Software Developer (aka professional Chatgpt + Googler + StackOverflow archaeologist).<br><br>I turn ☕ into code, bugs into “features”, and ideas into (mostly) working products.<br>Currently chasing clean code, scalable systems, and inner peace through semicolons.<br><br>🚀 Building things<br>🐛 Fixing things I broke<br>🧠 Learning things I thought I already knew<br>😅 Debugging my life choices</h3>
+<h3 align="left">💫 About Me:<br>Highly motivated human trying to become a slightly better version of yesterday’s bug-fixing machine.<br>By profession: Software Developer.<br><br>I turn ☕ into code, bugs into “features”, and ideas into (mostly) working products.<br>Currently chasing clean code, scalable systems, and inner peace through semicolons.<br><br>🚀 Building things<br>🐛 Fixing things I broke<br>🧠 Learning things I thought I already knew<br>😅 Debugging my life choices</h3>
 
 ###
 
