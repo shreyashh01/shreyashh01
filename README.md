@@ -114,7 +114,7 @@
 <table>
   <tr>
     <td width="50%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyashh01&theme=github_dark" width="100%" alt="Profile details" /></td>
-    <td width="50%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyashh01&theme=github_dark" width="100%" alt="Stats" /></td>
+    <td width="50%" align="center"><img src="koi/koi.gif" width="256" alt="My git koi, grown from my GitHub activity" /></td>
   </tr>
   <tr>
     <td width="50%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyashh01&theme=github_dark" width="100%" alt="Repos per language" /></td>
